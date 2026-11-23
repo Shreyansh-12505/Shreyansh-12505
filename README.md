@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/shreyansh-yadav-7b888b380/">
     <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
-<!-- </p><p align="center">
+ </p>
+ <!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreyansh-12505&style=for-the-badge&color=2563eb&label=PROFILE%20VIEWS" alt="GitHub profile views" />
 </p> -->
 👨‍💻 About Me
