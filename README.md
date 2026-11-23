@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About me
-- 🎓 Studying [your course] at [your college]
+- 🎓 Currently in 2nd year at JSS academy of Technical Education , Noida 
 - 🌐 Building full-stack web apps
 - 🧠 Currently exploring: **LLM APIs and gen ai**
 - ⚙️ Currently learning: **REST API design, databases, auth and problem solving**
@@ -30,8 +30,8 @@
 ### 🚀 Featured projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Project One](https://github.com/Shreyansh-12505/health-connect-emergency-app) |  The project focuses on making ambulance booking, driver assignment, live tracking, and hospital coordination faster and easier to manage. | React, Node.js,Express,Auth,JWT |
-| [Project Two](https://github.com/Shreyansh-12505/memory-game) | A Harry Potter-themed memory card game built with React and Vite. Test your memory by matching your favorite Harry Potter characters before the timer runs out! | HTML,CSS,JS,React |
+| [healthConnect emergency-ai](https://github.com/Shreyansh-12505/health-connect-emergency-app) |  The project focuses on making ambulance booking, driver assignment, live tracking, and hospital coordination faster and easier to manage. | React, Node.js,Express,Auth,JWT |
+| [Memory-game](https://github.com/Shreyansh-12505/memory-game) | A Harry Potter-themed memory card game built with React and Vite. Test your memory by matching your favorite Harry Potter characters before the timer runs out! | HTML,CSS,JS,React |
 
 
 ### 📊 GitHub stats
