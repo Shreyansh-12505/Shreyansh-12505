@@ -3,7 +3,8 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+stack;Learning+backend+engineering+by+building;Solving+DSA+problems+with+Java;Exploring+Generative+AI" alt="Typing introduction" />
   
-</p><p align="center">
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/shreyansh-yadav-7b888b380/">
     <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
