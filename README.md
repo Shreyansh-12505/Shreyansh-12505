@@ -67,8 +67,11 @@ I regularly practise DSA with Java and work on improving my problem-solving appr
 </p><p align="center">
   <img width="65%" src="https://streak-stats.demolab.com?user=Shreyansh-12505&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-🐍 Contributions in Motion
+## 🐍 Contributions in Motion
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreyansh-12505/Shreyansh-12505/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</p>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep getting better. 🚀</i>
