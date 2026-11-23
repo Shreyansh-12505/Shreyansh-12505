@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Shreyansh Yadav 👋</h1><h3 align="center">Full-Stack Developer · IT Undergrad · DSA & Competitive Programming</h3><p align="center">
+<h1 align="center">Hey, I'm Shreyansh Yadav 👋
+</h1><h3 align="center">Full-Stack Developer · IT Undergrad · DSA & Competitive Programming</h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+stack;Learning+backend+engineering+by+building;Solving+DSA+problems+with+Java;Exploring+Generative+AI" alt="Typing introduction" />
 </p><p align="center">
   <a href="https://www.linkedin.com/in/shreyansh-yadav-7b888b380/">
