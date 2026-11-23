@@ -1,44 +1,46 @@
-<h1 align="center">Hey, I'm Shreyansh 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Student+%26+Web+Developer;Exploring+AI+%2B+Backend+Systems;Building+things+that+actually+work" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreyansh-yadav-7b888b380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a> -->
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=blue" />
-</p>
-
----
-
-### 👨‍💻 About me
-- 🎓 Currently in 2nd year at JSS academy of Technical Education , Noida 
-- 🌐 Building full-stack web apps
-- 🧠 Currently exploring: **LLM APIs and gen ai**
-- ⚙️ Currently learning: **REST API design, databases, auth and problem solving**
-- 🤝 Open to collaborating on student projects and open source
-
-### 🛠 Tech stack
-**Frontend:** <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-
-**Backend:** <img src="https://skillicons.dev/icons?i=java,nodejs,express,py,fastapi,postgres,mongodb," />
-
-**AI / Tools:** <img src="https://skillicons.dev/icons?i=git,vscode" />
-
-### 🚀 Featured projects
-| Project | What it does | Stack |
-|---|---|---|
-| [healthConnect emergency-ai](https://github.com/Shreyansh-12505/health-connect-emergency-app) |  The project focuses on making ambulance booking, driver assignment, live tracking, and hospital coordination faster and easier to manage. | React, Node.js,Express,Auth,JWT |
-| [Memory-game](https://github.com/Shreyansh-12505/memory-game) | A Harry Potter-themed memory card game built with React and Vite. Test your memory by matching your favorite Harry Potter characters before the timer runs out! | HTML,CSS,JS,React |
-
-
-### 📊 GitHub stats
+<h1 align="center">Hey, I'm Shreyansh Yadav 👋</h1><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=600&lines=IT+Student+%40+JSS+Noida;Building+Full-Stack+Web+Applications;Practising+DSA+and+Competitive+Programming;Exploring+Generative+AI" alt="Typing introduction" />
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/shreyansh-yadav-7b888b380/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shreyansh-12505&style=flat&color=blue&label=Profile%20views" alt="GitHub profile views" />
+</p>👨‍💻 About Me
+- 🎓 I'm a second-year B.Tech IT student at JSS Academy of Technical Education, Noida.
+- 🌐 I build full-stack web applications using the MERN stack.
+- ⚙️ I'm strengthening my understanding of backend development, REST APIs, databases, and authentication.
+- 🧩 I practise Data Structures & Algorithms and competitive programming using Java.
+- 🤖 I'm exploring LLM APIs and Generative AI.
+- 🤝 Open to collaborating on student projects and open-source work.
+🛠️ Tech Stack
+Frontend
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shreyansh-12505&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-12505&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" alt="HTML, CSS, JavaScript, React, Redux and Tailwind CSS" />
 </p>
+Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite" alt="Node.js, Express, MongoDB and Appwrite" />
+</p>
+Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman" alt="Java, Git, GitHub, VS Code and Postman" />
+</p>
+Currently exploring: LLM APIs, Generative AI, and AI/ML fundamentals.
+🚀 Featured Projects
+Project	Description	Technologies
+HealthConnect Emergency AI	An emergency healthcare coordination project focused on ambulance booking, driver assignment, live tracking, and hospital coordination.	React, Node.js, Express.js, JWT
+Harry Potter Memory Game	A Harry Potter-themed memory game built with React and Vite. Match character cards before the timer runs out.	HTML, CSS, JavaScript, React, Vite
 
-### 🐍 Contribution snake
-<img src="https://raw.githubusercontent.com/Shreyansh-12505/Shreyansh-12505/output/github-snake.svg" />
+
+📊 GitHub Statistics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyansh-12505&show_icons=true&hide_border=true" alt="Shreyansh's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-12505&layout=compact&hide_border=true" alt="Most used programming languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreyansh-12505&hide_border=true" alt="GitHub contribution streak" />
+</p>🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreyansh-12505/Shreyansh-12505/output/github-snake.svg" alt="GitHub contribution snake animation" />
+</p><p align="center">
+  <i>Always learning, building, and improving — one project and one problem at a time.</i>
+</p>
